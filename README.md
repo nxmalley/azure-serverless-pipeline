@@ -80,4 +80,4 @@ Blob Storage → Event Grid → Azure Function → Key Vault → Processed Outpu
 ##  Author
 
 Nicholas Malley
-Aspiring Cloud & Infrastructure Engineer
+Aspiring Cloud Engineer | Cybersecurity Background
